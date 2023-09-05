@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **T3 stack**
 
-- 💬 Ask me about **Web, React or Cybersecurity**
+- 💬 Ask me about **Web, 3d Modeling or Cybersecurity**
 
 - 📫 How to reach me **rishabhgautam727@gmail.com**
 
